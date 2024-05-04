@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Desplays current pid
+echo $$

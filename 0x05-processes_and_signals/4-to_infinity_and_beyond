@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Prints To infinity and beyond forever with 2s sleep in each itr
+
+while true
+do
+  echo "To infinity and beyond"
+  sleep 2
+done

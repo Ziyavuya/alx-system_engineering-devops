@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#I honestly have no idea why you'd kill highlander
+
+pkill -f 7-highlander 
